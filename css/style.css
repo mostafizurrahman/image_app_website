@@ -46,7 +46,7 @@ Styled user selection
 }
 
 ::-moz-selection {
-    background: #53b380;
+    background: #ff3232;
     text-shadow: none;
 }
 
@@ -68,7 +68,7 @@ Buttons & links
 }
 
 a {
-    color: #53b380;
+    color: #ff3232;
 }
 
 a:link,
@@ -93,7 +93,7 @@ a.btn {
     line-height: 100%;
     padding: 15px 40px;
     text-align: center;
-    border: 2px solid #53b380;
+    border: 2px solid #ff3232;
     border-top-left-radius: 30px;
     border-top-right-radius: 30px;
     border-bottom-left-radius: 30px;
@@ -102,7 +102,7 @@ a.btn {
 
 a.btn:hover {
     color: #fff;
-    background: #53b380;
+    background: #ff3232;
 }
 
 .columns img {
@@ -119,11 +119,11 @@ Helper classes
 */
 
 .highlight-color {
-    color: #53b380;
+    color: #ff3232;
 }
 
 .highlight-bg {
-    background-color: #53b380;
+    background-color: #ff3232;
 }
 
 .float-left {
@@ -188,7 +188,7 @@ h3:after,
 h4:after,
 h5:after,
 h6:after {
-    background: #53b380;
+    background: #ff3232;
     content: "";
     display: block;
     width: 76px;
@@ -402,14 +402,14 @@ input[type="week"]:focus {
 input[type=submit],
 .submit {
     background: none;
-    color: #53b380;
+    color: #ff3232;
     display: table;
     line-height: 100%;
     outline: none;
     padding: 15px 40px;
     text-align: center;
     width: 100%;
-    border: 2px solid #53b380;
+    border: 2px solid #ff3232;
     border-top-left-radius: 30px;
     border-top-right-radius: 30px;
     border-bottom-left-radius: 30px;
@@ -419,7 +419,7 @@ input[type=submit],
 input[type=submit]:hover,
 .submit:hover {
     color: #fff;
-    background: #53b380;
+    background: #ff3232;
 }
 
 .inline-label {
@@ -476,7 +476,7 @@ input[type=submit]:hover,
     display: block;
     font-size: 20px;
     font-weight: 300;
-    background: #53b380;
+    background: #ff3232;
     border-top-left-radius: 30px;
     border-top-right-radius: 30px;
     border-bottom-left-radius: 30px;
@@ -746,7 +746,7 @@ Header + main nav + social links
 .header .main-nav ul li a:hover,
 .header .main-nav ul li a:active,
 .header .main-nav ul li a.current {
-    background: #53b380;
+    background: #ff3232;
     color: #fff;
 }
 
@@ -762,7 +762,7 @@ Header + main nav + social links
     padding: 2px 0 0 0;
     overflow: hidden;
     text-align: center;
-    border: 2px solid #53b380;
+    border: 2px solid #ff3232;
     border-top-left-radius: 50%;
     border-top-right-radius: 50%;
     border-bottom-left-radius: 50%;
@@ -770,7 +770,7 @@ Header + main nav + social links
 }
 
 .header .social-links a:hover {
-    background: #53b380;
+    background: #ff3232;
     color: #fff;
 }
 
@@ -824,7 +824,7 @@ Footer
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
     content: "\f178";
-    color: #53b380;
+    color: #ff3232;
     font-size: 13px;
     padding-right: 10px;
     vertical-align: middle;
@@ -1119,30 +1119,30 @@ FAQ PAGE
 
 .faqs .faq .faq-q .faq-rating>span:hover,
 .faqs .faq .faq-q .faq-rating>span:hover~span {
-    background: #53b380;
+    background: #ff3232;
 }
 
 .faqs .faq .faq-q .faq-rating.stars-1 span:last-child {
-    background: #53b380;
+    background: #ff3232;
 }
 
 .faqs .faq .faq-q .faq-rating.stars-2 span:nth-child(5),
 .faqs .faq .faq-q .faq-rating.stars-2 span:nth-child(4) {
-    background: #53b380;
+    background: #ff3232;
 }
 
 .faqs .faq .faq-q .faq-rating.stars-3 span:nth-child(5),
 .faqs .faq .faq-q .faq-rating.stars-3 span:nth-child(4),
 .faqs .faq .faq-q .faq-rating.stars-3 span:nth-child(3) {
-    background: #53b380;
+    background: #ff3232;
 }
 
 .faqs .faq .faq-q .faq-rating.stars-4 span:not(:first-child) {
-    background: #53b380;
+    background: #ff3232;
 }
 
 .faqs .faq .faq-q .faq-rating.stars-5 span {
-    background: #53b380;
+    background: #ff3232;
 }
 
 .faqs .faq .faq-a {
@@ -1150,8 +1150,8 @@ FAQ PAGE
 }
 
 .faqs .faq.active-faq .faq-q a .fa {
-    color: #53b380;
-    border-color: #53b380;
+    color: #ff3232;
+    border-color: #ff3232;
     -webkit-transform: rotate(90deg);
     -moz-transform: rotate(90deg);
     -ms-transform: rotate(90deg);
@@ -1176,20 +1176,20 @@ PLANS & PRICING (buy it now) PAGE
 }
 
 .plans-wrapper .select-price.highlight-plan .pricing-plan {
-    border: 2px solid #53b380;
+    border: 2px solid #ff3232;
 }
 
 .plans-wrapper .select-price.highlight-plan .pricing-plan:before {
-    background: #53b380;
+    background: #ff3232;
     color: #fff;
 }
 
 .plans-wrapper .select-price:hover .pricing-plan {
-    border: 2px solid #53b380;
+    border: 2px solid #ff3232;
 }
 
 .plans-wrapper .select-price:hover .pricing-plan:before {
-    background: #53b380;
+    background: #ff3232;
     color: #fff;
 }
 
@@ -1236,7 +1236,7 @@ PLANS & PRICING (buy it now) PAGE
 }
 
 .plans-wrapper .pricing-plan .plan-price {
-    color: #53b380;
+    color: #ff3232;
     font-size: 36px;
     font-family: "Bree Serif", serif;
     text-align: center;
@@ -1277,8 +1277,8 @@ PLANS & PRICING (buy it now) PAGE
 }
 
 .toggle-fields.active-fields {
-    color: #53b380;
-    border: 2px solid #53b380;
+    color: #ff3232;
+    border: 2px solid #ff3232;
 }
 
 
@@ -1383,7 +1383,7 @@ Off canvas area
     padding: 2px 0 0 0;
     overflow: hidden;
     text-align: center;
-    border: 2px solid #53b380;
+    border: 2px solid #ff3232;
     border-top-left-radius: 50%;
     border-top-right-radius: 50%;
     border-bottom-left-radius: 50%;
@@ -1391,7 +1391,7 @@ Off canvas area
 }
 
 .off-canvas .social-links a:hover {
-    background: #53b380;
+    background: #ff3232;
     color: #fff;
 }
 
@@ -1449,7 +1449,7 @@ Overwrite some FlexSlider styles
 }
 
 .flexslider .flex-control-nav li a.flex-active {
-    background: #53b380;
+    background: #ff3232;
 }
 
 
